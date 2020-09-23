@@ -1,0 +1,7 @@
+frmMain = 44, 44, 597, 462, C, 22, 22, 575, 440, C
+CErrorCollection = 0, 0, 0, 0, C
+CHive = 0, 0, 0, 0, C
+CNode = 0, 0, 0, 0, C
+HiveModule = 0, 0, 0, 0, C
+kaLCDDisplay = 0, 0, 0, 0, C, 110, 110, 663, 528, C
+mFilterG = 22, 22, 575, 440, C
